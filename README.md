@@ -7,4 +7,4 @@ A Little Project Of Mine, Requested By Someone In My Course at University.
 
 
 ## ISSUES:
-- Currently, There Is No Reward For Successful Completion
+- Currently, There Is No Reward For Successful Completion ( all things considered, is this really an issue ?! )
